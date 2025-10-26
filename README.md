@@ -1,10 +1,10 @@
 # News Categorization
 
-A Python project for automatically categorizing news headlines from multiple RSS feeds using various machine learning and AI approaches.
+A Python project inspired by my love of Google News — I read it every day and have always been curious about how it groups articles into relevant headlines. I wanted to see what a simple approach might look like, so in this project I experiment with automatically categorizing news headlines from multiple RSS feeds using straightforward machine learning and AI techniques.
 
 ## Overview
 
-This project fetches news headlines from major news sources (NY Times, WSJ, Fox News, CNN, NPR, Google News) and categorizes them using different clustering and classification techniques. The goal is to group similar news stories together and compare the effectiveness of various approaches.
+This project fetches news headlines from RSS feeds and categorizes them using different clustering and classification techniques. The goal is to group similar news stories together and compare the effectiveness of various approaches.
 
 ## Features
 
